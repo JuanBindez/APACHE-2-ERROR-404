@@ -14,4 +14,7 @@ agora com o nano , você precisa acrescentar uma linha  exemplo: ErrorDocument 4
 
 ![apache2404nano](https://user-images.githubusercontent.com/79322362/155826562-aa30d9c7-0bd8-4a35-81fd-6a93e93ee8cc.png)
 
+ficará igual a imagem abaixo
+
+![apache24043](https://user-images.githubusercontent.com/79322362/155826708-fc01aee8-fbe5-42a0-bf89-232c08badd8a.png)
 
