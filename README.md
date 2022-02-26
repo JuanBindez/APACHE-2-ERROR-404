@@ -18,3 +18,9 @@ ficará igual a imagem abaixo
 
 ![apache24043](https://user-images.githubusercontent.com/79322362/155826708-fc01aee8-fbe5-42a0-bf89-232c08badd8a.png)
 
+para salvar Ctrl + o 
+
+para sair Ctrl + x
+
+ATENÇÃO, NÃO MUDE O NOME DO ARQUIVO!
+
