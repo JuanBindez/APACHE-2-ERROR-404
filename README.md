@@ -24,3 +24,8 @@ para sair Ctrl + x
 
 ATENÇÃO, NÃO MUDE O NOME DO ARQUIVO!
 
+
+por ultimo vocẽ precisa dar restart no apache.
+
+![restartapache2](https://user-images.githubusercontent.com/79322362/155827538-d8521557-9093-4354-9233-27aa85d99808.png)
+
